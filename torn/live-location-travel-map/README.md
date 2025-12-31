@@ -1,6 +1,6 @@
 # Torn live location travel map
 
-My custom updated version of Justlucdewit's Live Location Travel Map TamperMonkey script for Torn.com
+My custom updated version of Justlucdewit's 'Live Location Travel Map' TamperMonkey script for Torn.com
 
 Changes include:
 
