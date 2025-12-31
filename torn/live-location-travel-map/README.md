@@ -25,3 +25,6 @@ Mobile Device Support: Uses a responsive <img /> tag for the background rather t
 Map Image Source: The map background has changed from using the GitHub repository's image to the official Torn map file (https://www.torn.com/images/v2/travel_agency/map.png).
 
 Coordinate Accuracy: The coordinate locations for countries have been tweaked slightly for better alignment with the new map background.
+
+Preview:
+<img width="898" height="618" alt="image" src="https://github.com/user-attachments/assets/0bbded35-4bda-4c3a-84d7-07efa9dd35ef" />
